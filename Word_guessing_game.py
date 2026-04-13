@@ -1,7 +1,6 @@
 import random 
 print("\n--------Word guessing game--------")
 
-#
 words = ["Python","Script","Binary","Debug","Server","Coding","Deploy","Socket","Github","Kernel","Banana"]
 word = random.choice(words)
 length = len(word)
